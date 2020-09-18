@@ -12,3 +12,6 @@ Result:
 4) Prometheus HTTP Services Status and Linux Hosts metrics
 ![Image alt](https://github.com/DmitryKramich/prometheus/blob/master/imgs/4.png)
 
+4) Blackbox Exporter
+![Image alt](https://github.com/DmitryKramich/prometheus/blob/master/imgs/5.png)
+
